@@ -2,7 +2,7 @@
 # 用于 Cloudflare Workers 部署 Twikoo 评论系统
 
 # Worker 的名字，可以随意修改，但必须存在
-name = "twikoo-cloudflare"
+name = "pl"
 
 # Worker 的入口文件路径，通常是 src/index.js
 main = "src/index.js"
